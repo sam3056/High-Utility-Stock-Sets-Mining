@@ -6,7 +6,7 @@ This program can be run on any dataset which contains time-series data, 100% des
 
 In order to run the code, first clone the repository.
 
-`git clone`
+`git clone git@github.com:sam3056/High-Utility-Stock-Sets-Mining.git`
 
 Then in the v2.py file find the read_database function and set the path to the dataset.
 
